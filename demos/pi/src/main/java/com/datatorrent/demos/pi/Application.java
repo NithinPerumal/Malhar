@@ -53,7 +53,8 @@ import com.datatorrent.api.annotation.ApplicationAnnotation;
  * <img src="doc-files/Application.gif" width=600px > <br>
  * <br>
  *
- * Streaming Window Size : 1000 ms(1 Sec) <br>
+ * Streaming Window Size  * 2013-06-17 16:58:12,119 [container-0] INFO  engine.WindowGenerator activate - Catching up from 1371513490000 to 1371513492119
+: 1000 ms(1 Sec) <br>
  * Operator Details : <br>
  * <ul>
  * <li><b>The rand Operator : </b> This operator generates random integer
